@@ -7,7 +7,7 @@ For connection to the CPU_8080 processor board - https://github.com/R2AKT/CPU_80
 
 Status: tested.
 
-Модуль матеметического процессора на базе AM9511/8231.
+Модуль математического процессора на базе AM9511/8231.
 Для подключения к процессорной плате CPU_8080 - https://github.com/R2AKT/CPU_8080.
 
 Статус: проверено.
