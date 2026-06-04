@@ -3,7 +3,7 @@ License addendum - https://github.com/R2AKT/APU9511/blob/main/Addendum.txt
 # APU9511
 <img src="APU_top.png">
 APU (Arithmetic Processing Unit) module for CPU_8080 board based on AM9511/8231.
-For connection to the CPU_8080 processor board* - https://github.com/R2AKT/CPU_8080.
+For Mega-80 (Mega-580) DIY 8-bit micro-computer - https://github.com/R2AKT/Mega-80.
 
 *Note: The processor module CPU_8080 must use a 580VK38 (8238) system bus controller, which is not functional when using 580VK28 (8228).
 
